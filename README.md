@@ -4,7 +4,7 @@
  Loki Malone
 
 # Technologies
-HTML, CSS
+javaScript, Node .js
 
 # Contact 
 https://github.com/Loki-Malone
